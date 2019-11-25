@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM danielguerra/ubuntu-xrdp
 
 # Install dependencies
 RUN apt-get update -y
